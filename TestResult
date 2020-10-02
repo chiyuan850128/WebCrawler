@@ -1,0 +1,787 @@
+chiyuans-imac:target chiyuanding$ java -jar webcrawler.jar http://wiprodigital.com 2
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&title=Oslo Pax 2020: Diversity Matters&summary=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 138: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&title=Oslo Pax 2020: Diversity Matters&summary=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&title=World Economic Forum Report: Critical Frontier: Leveraging Technology to Combat COVID-19&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 202: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&title=World Economic Forum Report: Critical Frontier: Leveraging Technology to Combat COVID-19&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&title=Everest Group Positions Wipro as a Leader in Cloud-Native Application Services&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 186: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&title=Everest Group Positions Wipro as a Leader in Cloud-Native Application Services&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&title=Customer Experience in the No-Touch, Safety Obsessed Age&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 174: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&title=Customer Experience in the No-Touch, Safety Obsessed Age&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&title=Wipro Selected as Strategic Partner by Metro Bank to Drive IT Transformation&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 182: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&title=Wipro Selected as Strategic Partner by Metro Bank to Drive IT Transformation&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&title=Wipro Limited Recognized as the Winner of Application Innovation 2020 Microsoft Partner of the Year&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 205: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&title=Wipro Limited Recognized as the Winner of Application Innovation 2020 Microsoft Partner of the Year&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&title=Diversity and Culture are Key to Business Agility&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 169: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&title=Diversity and Culture are Key to Business Agility&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&title=Wipro Digital Rig and DevSecOps&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 141: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&title=Wipro Digital Rig and DevSecOps&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&title=CIO Strategy and Advisory Services&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 142: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&title=CIO Strategy and Advisory Services&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&source=wiprodigital.com
+site (mailto:global.consulting@wipro.com) is not a valid URI, Exception: null
+site (mailto:info@wipro.com) is not a valid URI, Exception: null
+site (mailto:dpo-europe@wipro.com) is not a valid URI, Exception: null
+site (mailto:info@wipro.com) is not a valid URI, Exception: null
+site (mailto:dpo-europe@wipro.com) is not a valid URI, Exception: null
+Internal Links:
+https://wiprodigital.com/tag/bots/
+https://wiprodigital.com/2020/09/16/diversity-and-culture-are-key-to-business-agility/
+https://wiprodigital.com/tag/enterprise-agility/
+https://wiprodigital.com/2020/09/10/devsecops-demystified-securing-the-dev-and-ops-worlds/
+https://wiprodigital.com/2020/07/16/customer-experience-in-the-no-touch-safety-obsessed-age/
+https://wiprodigital.com/news/wipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation/
+https://wiprodigital.com/what-we-do/#masthead
+https://wiprodigital.com/2019/08/28/future-of-software-development-ai-in-developer-productivity-part-1/
+https://wiprodigital.com/cases/digitized-onboarding-experience-for-a-leading-telecommunications-company/
+https://wiprodigital.com/tag/customer-experience/
+https://wiprodigital.com/2020/04/13/how-ai-can-reduce-response-times-to-the-global-pandemic/
+https://wiprodigital.com/tag/customer-engagement/
+https://wiprodigital.com/get-in-touch/
+https://wiprodigital.com/cases/contextual-customer-engagement-for-a-leading-beverage-producer/
+https://wiprodigital.com/partners/sag/
+https://wiprodigital.com/partners/biz2credit/
+https://wiprodigital.com/2020/08/12/the-new-era-of-retail-has-arrived/
+https://wiprodigital.com/what-we-think/
+https://wiprodigital.com/join-our-team/#masthead
+https://wiprodigital.com/2020/03/29/using-ai-to-help-solve-remote-working-it-issues/
+https://wiprodigital.com/
+https://wiprodigital.com/join-our-team/#wdcareers_team
+https://wiprodigital.com/what-we-do/#work-three-circles-row
+https://wiprodigital.com/join-our-team/#wdcareers_jobs
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%20Digital%20Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU
+https://wiprodigital.com/2020/08/17/rethinking-uncertainty-individually-in-teams-and-in-organizations/
+https://wiprodigital.com/2020/09/14/ageism-exposed-how-can-design-help/
+https://wiprodigital.com/2020/03/26/quickly-enable-remote-work-using-virtuadesk-bcp/
+https://wiprodigital.com/2020/04/14/modernization-initiatives-need-not-stall/
+https://wiprodigital.com/cases/enabling-in-house-app-development-for-an-american-bank/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#increasing-org-resilience
+https://wiprodigital.com/partners/xebia-labs/
+https://wiprodigital.com/2019/12/18/the-social-physics-of-successful-cloud-native-transformation/
+https://wiprodigital.com/2020/03/27/accelerate-covid-19-research-using-holmes-assistant-for-researcher/
+https://wiprodigital.com/2020/04/10/go-beyond-enabling-remote-work-plan-for-the-future/
+https://wiprodigital.com/2020/04/02/monitor-connectivity-to-improve-the-remote-employee-experience/
+https://wiprodigital.com/get-in-touch
+https://wiprodigital.com/2020/04/01/adopt-agile-anywhere-for-seamless-software-delivery/
+https://wiprodigital.com/2020/09/03/leading-the-path-to-recovery-and-resilience-in-the-high-tech-industry/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/employee-workforce-experience
+https://wiprodigital.com/?s=&post_type[]=news
+https://wiprodigital.com/partners/app-dynamics/
+https://wiprodigital.com/cases/transforming-supply-chain-communications-for-a-technology-leader/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#digital-technologies
+https://wiprodigital.com/what-we-do
+https://wiprodigital.com/join-our-team/
+https://wiprodigital.com/tag/health-technology/
+https://wiprodigital.com/get-in-touch/#wddi-locations
+https://wiprodigital.com/cases/helping-a-pharmaceutical-leader-discover-its-mobile-swagger/
+https://wiprodigital.com/2020/04/03/overcome-sales-disruptions-with-ecommerce-as-a-service/
+https://wiprodigital.com/partners/apporbit/
+https://wiprodigital.com/partners/red-hat/
+https://wiprodigital.com/partners/tricentis/
+https://wiprodigital.com/tag/cmo/
+https://wiprodigital.com/2020/04/07/quickly-identify-cost-reductions-with-the-sgt-framework/
+https://wiprodigital.com/tag/new-ways-of-working/
+https://wiprodigital.com/get-in-touch/wipro-digital-dublin/
+https://wiprodigital.com/services/cio-strategy-and-advisory-services
+https://wiprodigital.com/who-we-are/#wdteam_leaders
+https://wiprodigital.com/join-our-team/#wdwork-vid
+https://wiprodigital.com/tag/wipro-ventures/
+https://wiprodigital.com/tag/artificial-intelligence/
+https://wiprodigital.com/2020/04/29/the-top-marketing-challenges-amid-covid-19-and-how-to-overcome-them/
+https://wiprodigital.com/cases/boosting-partner-effectiveness-for-a-professional-services-leader/
+https://wiprodigital.com/tag/partners/
+https://wiprodigital.com/2019/01/03/creating-an-engaging-conversational-interface-for-a-successful-bot-adoption/
+https://wiprodigital.com/tag/workplace/
+https://wiprodigital.com/what-we-do/#wdwork_cases
+https://wiprodigital.com/privacy-policy/
+https://wiprodigital.com/partners/processmaker/
+https://wiprodigital.com/tag/recruiting/
+https://wiprodigital.com/cases/delivering-an-exceptional-mortgage-customer-experience-for-allied-irish-bank/
+https://wiprodigital.com/partners/aprimo/
+https://wiprodigital.com/?s=&post_type[]=cases
+https://wiprodigital.com/cases/accelerating-a-financial-leaders-time-to-market/
+https://wiprodigital.com/partners/whatfix/
+https://wiprodigital.com/2020/09/30/navigating-change-management-for-a-new-normal/
+https://wiprodigital.com/partners/sealights/
+https://wiprodigital.com/2020/05/12/gain-a-clearview-to-manage-project-portfolios/
+https://wiprodigital.com/2020/03/16/six-best-practices-for-remote-meetings/
+https://wiprodigital.com/partners/episerver/
+https://wiprodigital.com/partners/sap-hybris/
+https://wiprodigital.com/partners/ca-broadcom/
+https://wiprodigital.com/cases/empowering-a1-telekom-to-reinvent-itself-with-digital-transformation/
+https://wiprodigital.com/?s=&post_type[]=post
+https://wiprodigital.com/?s=&post_type[]=events
+https://wiprodigital.com/2020/05/01/the-importance-of-rapid-onboarding-to-the-future-of-work/
+http://wiprodigital.com
+https://wiprodigital.com/who-we-are/
+https://wiprodigital.com/who-we-are/#wdteam-vid
+https://wiprodigital.com/partners/leanix/
+https://wiprodigital.com/2020/04/20/changing-change-management-with-zero-touch-intervention/
+https://wiprodigital.com/who-we-are/#wdteam_meetus
+https://wiprodigital.com/partners/headspin/
+https://wiprodigital.com/partners/liferay/
+https://wiprodigital.com/partners/datastax/
+https://wiprodigital.com/news/wipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year/
+https://wiprodigital.com/what-we-think
+https://wiprodigital.com/2020/04/02/the-paperless-enterprise-is-key-to-conducting-remote-business/
+https://wiprodigital.com/events/oslo-pax-2020-diversity-matters/
+https://wiprodigital.com
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#
+https://wiprodigital.com/partners/vfunction/
+https://wiprodigital.com/get-in-touch/#wddi-contact
+https://wiprodigital.com/partners/tibco/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#optimizing-reimagining-it
+https://wiprodigital.com/tag/social-impact/
+https://wiprodigital.com/news/everest-group-positions-wipro-as-a-leader-in-cloud-native-application-services/
+https://wiprodigital.com/2020/04/07/optimize-change-to-regain-transformation-momentum/
+https://wiprodigital.com/partners/micro-focus/
+https://wiprodigital.com/partners/pega/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#employee-workforce-experience
+https://wiprodigital.com/2019/09/03/future-of-software-development-ai-in-developer-productivity-part-2/
+https://wiprodigital.com/2020/04/09/four-steps-to-thriving-with-remote-collaboration/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/digital-technologies
+https://wiprodigital.com/partners/adobe/
+https://wiprodigital.com/tag/customer-journey/
+https://wiprodigital.com/what-we-do/
+https://wiprodigital.com/2020/03/27/facilitate-remote-collaboration-with-microsoft-teams/
+https://wiprodigital.com/partners/cisco/
+https://wiprodigital.com/partners/yugabyte/
+https://wiprodigital.com/2020/04/02/leverage-rapid-integration-to-launch-channels-quickly/
+https://wiprodigital.com/2020/08/10/customer-intimacy-adding-value-into-the-financial-services-market/
+https://wiprodigital.com/services/wipro-digital-rig-and-devsecops/
+https://wiprodigital.com/cases/bringing-aid-to-indias-migrant-workers-amid-the-pandemic/
+https://wiprodigital.com/2020/03/26/an-ai-powered-bot-to-answer-your-covid-19-questions/
+https://wiprodigital.com/2020/03/26/tracking-employee-safety-for-business-continuity/
+https://wiprodigital.com/partners/dynatrace/
+https://wiprodigital.com/partners/vmware-tanzu/
+https://wiprodigital.com/cases/transforming-the-security-suite-of-a-global-networking-leader/
+https://wiprodigital.com/2020/04/01/scale-and-test-remotely-with-digital-assurance-as-a-service/
+https://wiprodigital.com/cases/digital-engagement-for-an-oil-and-gas-giant/
+https://wiprodigital.com/partners/sprinklr/
+https://wiprodigital.com/2020/03/30/ensuring-it-compliance-in-a-work-from-home-scenario/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/increasing-org-resilience
+https://wiprodigital.com/partners/maxicaster/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/optimizing-reimagining-it
+https://wiprodigital.com/designit-approach/
+https://wiprodigital.com/partners/aws/
+https://wiprodigital.com/2020/03/31/optimize-working-capital-to-mitigate-a-challenging-economy/
+https://wiprodigital.com/who-we-are/#masthead
+https://wiprodigital.com/join-our-team
+https://wiprodigital.com/cases/enabling-remote-device-management-for-the-biotech-leader/
+https://wiprodigital.com/2020/08/19/world-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19/
+https://wiprodigital.com/2020/04/03/transforming-the-technology-operating-model/
+https://wiprodigital.com/cases/in24-insure/
+https://wiprodigital.com/partners/microsoft/
+https://wiprodigital.com/cases/enabling-transformation-in-healthcare-and-life-sciences/
+https://wiprodigital.com/2020/04/03/how-to-accelerate-the-enterprise-cloud-journey/
+https://wiprodigital.com/what-we-do/#wdwork_partners
+https://wiprodigital.com/tag/leadership/
+https://wiprodigital.com/2020/03/30/now-is-the-time-to-become-human-centric-digital-and-design-what-matters/
+https://wiprodigital.com/tag/diversity/
+Media/Static Links: 
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/bootstrap.min.js>
+img: <https://s17776.pcdn.co/wp-content/uploads/2017/09/Authors-Rajan-Kohli.jpg> x (Rajan Kohli)
+img: <https://px.ads.linkedin.com/collect/?pid=696835&fmt=gif> 1x1 ()
+img: <https://s17776.pcdn.co/wp-content/uploads/2016/08/Wipro-Digital-Cookies-05-28-18.png> 1241x2962 ()
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/mason.js>
+script: <https://s17776.pcdn.co/wp-content/plugins/ajax-load-more/core/dist/js/ajax-load-more.min.js?ver=5.3.7>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/service-min.js?v=3>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdcareers-new.js?ver=1528824044>
+iframe: <https://player.vimeo.com/video/279286339?title=0&byline=0&portrait=0>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/designit_logo.png> x (Get In Touch – Wipr)
+img: <https://s17776.pcdn.co/wp-content/uploads/2020/08/Bhavika-crop.jpg> x (Bhavika Gorasia)
+iframe: <https://www.googletagmanager.com/ns.html?id=GTM-THG25LC>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdhome.js>
+script: <https://www.googletagmanager.com/gtag/js?id=AW-701955939>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdwork.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/isotope.pkgd.min.js>
+iframe: <https://player.vimeo.com/video/279286694?title=0&byline=0&portrait=0>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/modernizr.min.js>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/designit_logo.png> x (Designit)
+iframe: <https://player.vimeo.com/video/454817861>
+script: <https://s17776.pcdn.co/wp-content/plugins/wp-scroll-depth/js/jquery-scrolldepth/jquery.scrolldepth.min.js?ver=5.5>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdblog.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdteam.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/dicontact.js>
+script: <https://app-ab39.marketo.com/js/forms2/js/forms2.min.js>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (Digital Transformat)
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/nice-select.min.js>
+iframe: <https://player.vimeo.com/video/130310711?title=0&byline=0&portrait=0>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wiprodigital.js>
+iframe: <https://player.vimeo.com/video/173961044?title=0&byline=0&portrait=0>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (Get In Touch – Wipr)
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk-2X.png> x (wipro digital)
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (wipro digital)
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/inview.js>
+script: <https://s17776.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp>
+script: <https://s17776.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.5>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdpost.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/jquery.slicknav.min.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/jquery-1.12.0.min.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wow.min.js>
+OutSide Links:
+https://twitter.com/andycoghlan
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&hashtags=wiprodigital
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&title=Customer Experience in the No-Touch, Safety Obsessed Age&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&source=wiprodigital.com
+https://www.linkedin.com/in/andycoghlan
+https://www.nobelpeacecenter.org/en/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&hashtags=wiprodigital
+https://twitter.com/anubhav_mishra
+https://www.wipro.com/en-US/applications/microsoft/
+https://twitter.com/madhu7173
+https://www.nobelpeacecenter.org/arrangementer/oslo-pax-2020-diversity-matters
+https://www.wipro.com/en-CA/
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+https://twitter.com/wiprodigital
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&title=Diversity and Culture are Key to Business Agility&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&source=wiprodigital.com
+http://www.designit.com/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&hashtags=wiprodigital
+https://www.linkedin.com/company/wipro-digital
+https://digitalproducts.wiprodigital.com/
+https://twitter.com/WiproDigital
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&title=World Economic Forum Report: Critical Frontier: Leveraging Technology to Combat COVID-19&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&source=wiprodigital.com
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&hashtags=wiprodigital
+https://www.linkedin.com/in/kiran-minnasandram-8616a76
+https://www.linkedin.com/in/rajramadas/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&hashtags=wiprodigital
+https://hello.wiprodigital.com/everest-cloudnative-report-sept-2020/
+https://www.wipro.com/content/dam/nexus/en/newsroom/press-releases/2020/pdf/press-release-q1-21.pdf
+https://www.linkedin.com/in/surbhat/
+https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_analytics.html
+mailto:dpo-europe@wipro.com
+https://twitter.com/ritupg
+https://www.wipro.com/en-US/digital/partners/microsoft/
+https://twitter.com/kiran_minnas
+https://www.linkedin.com/in/anubhavmishra/
+https://www.linkedin.com/in/muniswamybharathi
+https://twitter.com/RajRamadas
+https://www.linkedin.com/in/jeremy-leach-6707963
+https://www.wipro.com/newsroom/press-releases/2020/wipro-collaborates-with-aws-to-extend-devops-capabilities/
+https://www.linkedin.com/in/rituparna-ghosh/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&hashtags=wiprodigital
+https://www.linkedin.com/in/alexbeal
+https://twitter.com/mrjfleach
+https://tools.google.com/dlpage/gaoptout
+https://www.linkedin.com/in/kahly-berg-51b6b119/
+https://www.aboutcookies.org/page/2/
+https://www.linkedin.com/in/reynoldsalex
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&title=Oslo Pax 2020: Diversity Matters&summary=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&source=wiprodigital.com
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&title=Everest Group Positions Wipro as a Leader in Cloud-Native Application Services&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&source=wiprodigital.com
+mailto:global.consulting@wipro.com
+https://www.linkedin.com/in/ravi-seshadhri-4977436/
+https://www.wipro.com/innovation/ventures/
+https://www.linkedin.com/in/premchand-mohan-18389614/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&hashtags=wiprodigital
+https://www.linkedin.com/in/ramachandran-padmanabhan-789173/
+https://twitter.com/sudkes
+https://legal.twitter.com/ads-terms/us.html#twitterconversiontrackingprogramt%26cs
+https://services.designit.com/project/business-as-unusual
+https://www.rationalcx.com/
+mailto:info@wipro.com
+https://twitter.com/SandhyaRArun
+https://twitter.com/Surbhat
+https://twitter.com/TheDavidKenner
+https://twitter.com/gluecode
+https://www.linkedin.com/in/manoj-madhusudhanan-b89a153
+https://support.microsoft.com/en-in/help/17442/windows-internet-explorer-delete-manage-cookies
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&title=CIO Strategy and Advisory Services&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&source=wiprodigital.com
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&title=Wipro Selected as Strategic Partner by Metro Bank to Drive IT Transformation&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&source=wiprodigital.com
+https://www.linkedin.com/in/sudhirkesavan/
+https://www.facebook.com/WiproDigital/
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&title=Wipro Digital Rig and DevSecOps&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&source=wiprodigital.com
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&hashtags=wiprodigital
+https://twitter.com/ramu_pad
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&title=Wipro Limited Recognized as the Winner of Application Innovation 2020 Microsoft Partner of the Year&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&source=wiprodigital.com
+https://www.linkedin.com/in/rajan-kohli-69365a
+https://www.facebook.com/customaudiences/app/tos/?ref=u2u
+https://www.linkedin.com/in/mukundkalmanker
+https://business.twitter.com/en/help/ads-policies/other-policy-requirements/policies-for-conversion-tracking-and-tailored-audiences.html
+https://twitter.com/SRINIHG
+https://s17776.pcdn.co/wp-content/uploads/2016/08/Wipro-Digital-Cookies-05-28-18.png
+https://twitter.com/rajan_kohli1
+https://www.linkedin.com/in/srinivasaahg
+https://www.linkedin.com/in/rahul-shah-218a782
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&hashtags=wiprodigital
+https://www.linkedin.com/legal/sas-terms#additional-terms-for-optional-conversion-tracking
+https://www.linkedin.com/in/sandhyararun
+https://digistories.wiprodigital.com/?utm_source=Subscribe_Link&utm_medium=WD_Internal_clicks&utm_campaign=Digi%20Stories_%20Subscription_Internal_Clicks&utm_content=7010K000001eahI
+https://www.linkedin.com/in/davidkenner/
+https://www.linkedin.com/in/mnmurthy
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en
+https://twitter.com/rahulshahtweets
+https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+https://www.cloudbees.com/press/cloudbees-integrates-software-delivery-management-platform-google-cloud-build-and-tekton-break
+http://www3.weforum.org/docs/WEF_Critical_Frontier_Leveraging_Technology_Combat_COVID_19_2020.pdf
+https://designit.com
+https://legal.twitter.com/ads-terms/us.html#twitteradsprogramt%26cs
+https://www.linkedin.com/in/arun-melkote-88447a/?originalSubdomain=in
+https://www.linkedin.com/in/karkera/
+https://twitter.com/beal_a
+https://www.facebook.com/business/help/651294705016616?helpref=faq_content
+chiyuans-imac:target chiyuanding$ 
+chiyuans-imac:target chiyuanding$ 
+chiyuans-imac:target chiyuanding$ ls
+chiyuans-imac:target chiyuanding$ cd ..
+chiyuans-imac:WebCrawler-master chiyuanding$ cd target
+chiyuans-imac:target chiyuanding$ ls
+WebCrawler-0.0.1-SNAPSHOT.jar	generated-sources		maven-status
+classes				maven-archiver
+chiyuans-imac:target chiyuanding$ jar xf WebCrawler-0.0.1-SNAPSHOT.jar
+chiyuans-imac:target chiyuanding$ 
+chiyuans-imac:target chiyuanding$ 
+chiyuans-imac:target chiyuanding$ 
+chiyuans-imac:target chiyuanding$ java -jar webcrawler.jar http://wiprodigital.com 1
+Error: Unable to access jarfile webcrawler.jar
+chiyuans-imac:target chiyuanding$ ls
+META-INF			classes				maven-archiver			webcrawler
+WebCrawler-0.0.1-SNAPSHOT.jar	generated-sources		maven-status
+chiyuans-imac:target chiyuanding$ cd ..
+chiyuans-imac:WebCrawler-master chiyuanding$ ls
+MANIFEST.mf	README.md	jar		junit		pom.xml		src		target
+chiyuans-imac:WebCrawler-master chiyuanding$ cd jar
+chiyuans-imac:jar chiyuanding$ java -jar webcrawler.jar http://wiprodigital.com 1
+Internal Links:
+https://wiprodigital.com/2020/09/16/diversity-and-culture-are-key-to-business-agility/
+https://wiprodigital.com/what-we-do/
+https://wiprodigital.com/2020/07/16/customer-experience-in-the-no-touch-safety-obsessed-age/
+https://wiprodigital.com/news/wipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation/
+https://wiprodigital.com/?s=&post_type[]=cases
+https://wiprodigital.com/?s=&post_type[]=news
+https://wiprodigital.com/services/wipro-digital-rig-and-devsecops/
+https://wiprodigital.com/get-in-touch/
+https://wiprodigital.com/?s=&post_type[]=post
+https://wiprodigital.com/?s=&post_type[]=events
+https://wiprodigital.com/join-our-team/
+https://wiprodigital.com/get-in-touch/#wddi-locations
+http://wiprodigital.com
+https://wiprodigital.com/who-we-are/
+https://wiprodigital.com/who-we-are/#wdteam-vid
+https://wiprodigital.com/what-we-think/
+https://wiprodigital.com/who-we-are/#wdteam_meetus
+https://wiprodigital.com/join-our-team/#wdcareers_team
+https://wiprodigital.com/news/wipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year/
+https://wiprodigital.com/events/oslo-pax-2020-diversity-matters/
+https://wiprodigital.com/what-we-do/#work-three-circles-row
+https://wiprodigital.com
+https://wiprodigital.com/join-our-team/#wdcareers_jobs
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%20Digital%20Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU
+https://wiprodigital.com/designit-approach/
+https://wiprodigital.com/services/cio-strategy-and-advisory-services
+https://wiprodigital.com/who-we-are/#wdteam_leaders
+https://wiprodigital.com/join-our-team/#wdwork-vid
+https://wiprodigital.com/get-in-touch/#wddi-contact
+https://wiprodigital.com/2020/08/19/world-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19/
+https://wiprodigital.com/news/everest-group-positions-wipro-as-a-leader-in-cloud-native-application-services/
+https://wiprodigital.com/what-we-do/#wdwork_cases
+https://wiprodigital.com/what-we-do/#wdwork_partners
+https://wiprodigital.com/privacy-policy/
+Media/Static Links: 
+script: <https://s17776.pcdn.co/wp-content/plugins/wp-scroll-depth/js/jquery-scrolldepth/jquery.scrolldepth.min.js?ver=5.5>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/bootstrap.min.js>
+img: <https://px.ads.linkedin.com/collect/?pid=696835&fmt=gif> 1x1 ()
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/mason.js>
+script: <https://app-ab39.marketo.com/js/forms2/js/forms2.min.js>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (Digital Transformat)
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wiprodigital.js>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk-2X.png> x (wipro digital)
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (wipro digital)
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/inview.js>
+script: <https://s17776.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp>
+iframe: <https://www.googletagmanager.com/ns.html?id=GTM-THG25LC>
+script: <https://s17776.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.5>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdhome.js>
+script: <https://www.googletagmanager.com/gtag/js?id=AW-701955939>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/jquery.slicknav.min.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/modernizr.min.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/jquery-1.12.0.min.js>
+OutSide Links:
+https://twitter.com/wiprodigital
+https://www.linkedin.com/company/wipro-digital
+https://digitalproducts.wiprodigital.com/
+https://www.facebook.com/WiproDigital/
+https://digistories.wiprodigital.com/?utm_source=Subscribe_Link&utm_medium=WD_Internal_clicks&utm_campaign=Digi%20Stories_%20Subscription_Internal_Clicks&utm_content=7010K000001eahI
+chiyuans-imac:jar chiyuanding$ 
+chiyuans-imac:jar chiyuanding$ 
+chiyuans-imac:jar chiyuanding$ 
+chiyuans-imac:jar chiyuanding$ clear
+
+chiyuans-imac:jar chiyuanding$ java -jar webcrawler.jar http://wiprodigital.com 1
+Internal Links:
+https://wiprodigital.com/2020/09/16/diversity-and-culture-are-key-to-business-agility/
+https://wiprodigital.com/what-we-do/
+https://wiprodigital.com/2020/07/16/customer-experience-in-the-no-touch-safety-obsessed-age/
+https://wiprodigital.com/news/wipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation/
+https://wiprodigital.com/?s=&post_type[]=cases
+https://wiprodigital.com/?s=&post_type[]=news
+https://wiprodigital.com/services/wipro-digital-rig-and-devsecops/
+https://wiprodigital.com/get-in-touch/
+https://wiprodigital.com/?s=&post_type[]=post
+https://wiprodigital.com/?s=&post_type[]=events
+https://wiprodigital.com/join-our-team/
+https://wiprodigital.com/get-in-touch/#wddi-locations
+http://wiprodigital.com
+https://wiprodigital.com/who-we-are/
+https://wiprodigital.com/who-we-are/#wdteam-vid
+https://wiprodigital.com/what-we-think/
+https://wiprodigital.com/who-we-are/#wdteam_meetus
+https://wiprodigital.com/join-our-team/#wdcareers_team
+https://wiprodigital.com/news/wipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year/
+https://wiprodigital.com/events/oslo-pax-2020-diversity-matters/
+https://wiprodigital.com/what-we-do/#work-three-circles-row
+https://wiprodigital.com
+https://wiprodigital.com/join-our-team/#wdcareers_jobs
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%20Digital%20Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU
+https://wiprodigital.com/designit-approach/
+https://wiprodigital.com/services/cio-strategy-and-advisory-services
+https://wiprodigital.com/who-we-are/#wdteam_leaders
+https://wiprodigital.com/join-our-team/#wdwork-vid
+https://wiprodigital.com/get-in-touch/#wddi-contact
+https://wiprodigital.com/2020/08/19/world-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19/
+https://wiprodigital.com/news/everest-group-positions-wipro-as-a-leader-in-cloud-native-application-services/
+https://wiprodigital.com/what-we-do/#wdwork_cases
+https://wiprodigital.com/what-we-do/#wdwork_partners
+https://wiprodigital.com/privacy-policy/
+Media/Static Links: 
+script: <https://s17776.pcdn.co/wp-content/plugins/wp-scroll-depth/js/jquery-scrolldepth/jquery.scrolldepth.min.js?ver=5.5>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/bootstrap.min.js>
+img: <https://px.ads.linkedin.com/collect/?pid=696835&fmt=gif> 1x1 ()
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/mason.js>
+script: <https://app-ab39.marketo.com/js/forms2/js/forms2.min.js>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (Digital Transformat)
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wiprodigital.js>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk-2X.png> x (wipro digital)
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (wipro digital)
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/inview.js>
+script: <https://s17776.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp>
+iframe: <https://www.googletagmanager.com/ns.html?id=GTM-THG25LC>
+script: <https://s17776.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.5>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdhome.js>
+script: <https://www.googletagmanager.com/gtag/js?id=AW-701955939>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/jquery.slicknav.min.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/modernizr.min.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/jquery-1.12.0.min.js>
+OutSide Links:
+https://twitter.com/wiprodigital
+https://www.linkedin.com/company/wipro-digital
+https://digitalproducts.wiprodigital.com/
+https://www.facebook.com/WiproDigital/
+https://digistories.wiprodigital.com/?utm_source=Subscribe_Link&utm_medium=WD_Internal_clicks&utm_campaign=Digi%20Stories_%20Subscription_Internal_Clicks&utm_content=7010K000001eahI
+chiyuans-imac:jar chiyuanding$ 
+chiyuans-imac:jar chiyuanding$ 
+chiyuans-imac:jar chiyuanding$ java -jar webcrawler.jar http://wiprodigital.com 2
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&title=Oslo Pax 2020: Diversity Matters&summary=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 138: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&title=Oslo Pax 2020: Diversity Matters&summary=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&title=World Economic Forum Report: Critical Frontier: Leveraging Technology to Combat COVID-19&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 202: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&title=World Economic Forum Report: Critical Frontier: Leveraging Technology to Combat COVID-19&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&title=Everest Group Positions Wipro as a Leader in Cloud-Native Application Services&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 186: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&title=Everest Group Positions Wipro as a Leader in Cloud-Native Application Services&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&title=Customer Experience in the No-Touch, Safety Obsessed Age&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 174: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&title=Customer Experience in the No-Touch, Safety Obsessed Age&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&title=Wipro Selected as Strategic Partner by Metro Bank to Drive IT Transformation&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 182: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&title=Wipro Selected as Strategic Partner by Metro Bank to Drive IT Transformation&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&title=Wipro Limited Recognized as the Winner of Application Innovation 2020 Microsoft Partner of the Year&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 205: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&title=Wipro Limited Recognized as the Winner of Application Innovation 2020 Microsoft Partner of the Year&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&title=Diversity and Culture are Key to Business Agility&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 169: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&title=Diversity and Culture are Key to Business Agility&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&title=Wipro Digital Rig and DevSecOps&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 141: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&title=Wipro Digital Rig and DevSecOps&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&source=wiprodigital.com
+site (http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&hashtags=wiprodigital) is not a valid URI, Exception: Illegal character in query at index 35: http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&hashtags=wiprodigital
+site (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&title=CIO Strategy and Advisory Services&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&source=wiprodigital.com) is not a valid URI, Exception: Illegal character in query at index 142: http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&title=CIO Strategy and Advisory Services&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&source=wiprodigital.com
+site (mailto:global.consulting@wipro.com) is not a valid URI, Exception: null
+site (mailto:info@wipro.com) is not a valid URI, Exception: null
+site (mailto:dpo-europe@wipro.com) is not a valid URI, Exception: null
+site (mailto:info@wipro.com) is not a valid URI, Exception: null
+site (mailto:dpo-europe@wipro.com) is not a valid URI, Exception: null
+Internal Links:
+https://wiprodigital.com/tag/bots/
+https://wiprodigital.com/2020/09/16/diversity-and-culture-are-key-to-business-agility/
+https://wiprodigital.com/tag/enterprise-agility/
+https://wiprodigital.com/2020/09/10/devsecops-demystified-securing-the-dev-and-ops-worlds/
+https://wiprodigital.com/2020/07/16/customer-experience-in-the-no-touch-safety-obsessed-age/
+https://wiprodigital.com/news/wipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation/
+https://wiprodigital.com/what-we-do/#masthead
+https://wiprodigital.com/2019/08/28/future-of-software-development-ai-in-developer-productivity-part-1/
+https://wiprodigital.com/cases/digitized-onboarding-experience-for-a-leading-telecommunications-company/
+https://wiprodigital.com/tag/customer-experience/
+https://wiprodigital.com/2020/04/13/how-ai-can-reduce-response-times-to-the-global-pandemic/
+https://wiprodigital.com/tag/customer-engagement/
+https://wiprodigital.com/get-in-touch/
+https://wiprodigital.com/cases/contextual-customer-engagement-for-a-leading-beverage-producer/
+https://wiprodigital.com/partners/sag/
+https://wiprodigital.com/partners/biz2credit/
+https://wiprodigital.com/2020/08/12/the-new-era-of-retail-has-arrived/
+https://wiprodigital.com/what-we-think/
+https://wiprodigital.com/join-our-team/#masthead
+https://wiprodigital.com/2020/03/29/using-ai-to-help-solve-remote-working-it-issues/
+https://wiprodigital.com/
+https://wiprodigital.com/join-our-team/#wdcareers_team
+https://wiprodigital.com/what-we-do/#work-three-circles-row
+https://wiprodigital.com/join-our-team/#wdcareers_jobs
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%20Digital%20Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU
+https://wiprodigital.com/2020/08/17/rethinking-uncertainty-individually-in-teams-and-in-organizations/
+https://wiprodigital.com/2020/09/14/ageism-exposed-how-can-design-help/
+https://wiprodigital.com/2020/03/26/quickly-enable-remote-work-using-virtuadesk-bcp/
+https://wiprodigital.com/2020/04/14/modernization-initiatives-need-not-stall/
+https://wiprodigital.com/cases/enabling-in-house-app-development-for-an-american-bank/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#increasing-org-resilience
+https://wiprodigital.com/partners/xebia-labs/
+https://wiprodigital.com/2019/12/18/the-social-physics-of-successful-cloud-native-transformation/
+https://wiprodigital.com/2020/03/27/accelerate-covid-19-research-using-holmes-assistant-for-researcher/
+https://wiprodigital.com/2020/04/10/go-beyond-enabling-remote-work-plan-for-the-future/
+https://wiprodigital.com/2020/04/02/monitor-connectivity-to-improve-the-remote-employee-experience/
+https://wiprodigital.com/get-in-touch
+https://wiprodigital.com/2020/04/01/adopt-agile-anywhere-for-seamless-software-delivery/
+https://wiprodigital.com/2020/09/03/leading-the-path-to-recovery-and-resilience-in-the-high-tech-industry/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/employee-workforce-experience
+https://wiprodigital.com/?s=&post_type[]=news
+https://wiprodigital.com/partners/app-dynamics/
+https://wiprodigital.com/cases/transforming-supply-chain-communications-for-a-technology-leader/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#digital-technologies
+https://wiprodigital.com/what-we-do
+https://wiprodigital.com/join-our-team/
+https://wiprodigital.com/tag/health-technology/
+https://wiprodigital.com/get-in-touch/#wddi-locations
+https://wiprodigital.com/cases/helping-a-pharmaceutical-leader-discover-its-mobile-swagger/
+https://wiprodigital.com/2020/04/03/overcome-sales-disruptions-with-ecommerce-as-a-service/
+https://wiprodigital.com/partners/apporbit/
+https://wiprodigital.com/partners/red-hat/
+https://wiprodigital.com/partners/tricentis/
+https://wiprodigital.com/tag/cmo/
+https://wiprodigital.com/2020/04/07/quickly-identify-cost-reductions-with-the-sgt-framework/
+https://wiprodigital.com/tag/new-ways-of-working/
+https://wiprodigital.com/get-in-touch/wipro-digital-dublin/
+https://wiprodigital.com/services/cio-strategy-and-advisory-services
+https://wiprodigital.com/who-we-are/#wdteam_leaders
+https://wiprodigital.com/join-our-team/#wdwork-vid
+https://wiprodigital.com/tag/wipro-ventures/
+https://wiprodigital.com/tag/artificial-intelligence/
+https://wiprodigital.com/2020/04/29/the-top-marketing-challenges-amid-covid-19-and-how-to-overcome-them/
+https://wiprodigital.com/cases/boosting-partner-effectiveness-for-a-professional-services-leader/
+https://wiprodigital.com/tag/partners/
+https://wiprodigital.com/2019/01/03/creating-an-engaging-conversational-interface-for-a-successful-bot-adoption/
+https://wiprodigital.com/tag/workplace/
+https://wiprodigital.com/what-we-do/#wdwork_cases
+https://wiprodigital.com/privacy-policy/
+https://wiprodigital.com/partners/processmaker/
+https://wiprodigital.com/tag/recruiting/
+https://wiprodigital.com/cases/delivering-an-exceptional-mortgage-customer-experience-for-allied-irish-bank/
+https://wiprodigital.com/partners/aprimo/
+https://wiprodigital.com/?s=&post_type[]=cases
+https://wiprodigital.com/cases/accelerating-a-financial-leaders-time-to-market/
+https://wiprodigital.com/partners/whatfix/
+https://wiprodigital.com/2020/09/30/navigating-change-management-for-a-new-normal/
+https://wiprodigital.com/partners/sealights/
+https://wiprodigital.com/2020/05/12/gain-a-clearview-to-manage-project-portfolios/
+https://wiprodigital.com/2020/03/16/six-best-practices-for-remote-meetings/
+https://wiprodigital.com/partners/episerver/
+https://wiprodigital.com/partners/sap-hybris/
+https://wiprodigital.com/partners/ca-broadcom/
+https://wiprodigital.com/cases/empowering-a1-telekom-to-reinvent-itself-with-digital-transformation/
+https://wiprodigital.com/?s=&post_type[]=post
+https://wiprodigital.com/?s=&post_type[]=events
+https://wiprodigital.com/2020/05/01/the-importance-of-rapid-onboarding-to-the-future-of-work/
+http://wiprodigital.com
+https://wiprodigital.com/who-we-are/
+https://wiprodigital.com/who-we-are/#wdteam-vid
+https://wiprodigital.com/partners/leanix/
+https://wiprodigital.com/2020/04/20/changing-change-management-with-zero-touch-intervention/
+https://wiprodigital.com/who-we-are/#wdteam_meetus
+https://wiprodigital.com/partners/headspin/
+https://wiprodigital.com/partners/liferay/
+https://wiprodigital.com/partners/datastax/
+https://wiprodigital.com/news/wipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year/
+https://wiprodigital.com/what-we-think
+https://wiprodigital.com/2020/04/02/the-paperless-enterprise-is-key-to-conducting-remote-business/
+https://wiprodigital.com/events/oslo-pax-2020-diversity-matters/
+https://wiprodigital.com
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#
+https://wiprodigital.com/partners/vfunction/
+https://wiprodigital.com/get-in-touch/#wddi-contact
+https://wiprodigital.com/partners/tibco/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#optimizing-reimagining-it
+https://wiprodigital.com/tag/social-impact/
+https://wiprodigital.com/news/everest-group-positions-wipro-as-a-leader-in-cloud-native-application-services/
+https://wiprodigital.com/2020/04/07/optimize-change-to-regain-transformation-momentum/
+https://wiprodigital.com/partners/micro-focus/
+https://wiprodigital.com/partners/pega/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/?utm_source=WD&utm_medium=Homepage&utm_campaign=Covid-19%2520Digital%2520Campaign_Omni_Channel_WD_Q1&utm_content=7010K000000g0kU#employee-workforce-experience
+https://wiprodigital.com/2019/09/03/future-of-software-development-ai-in-developer-productivity-part-2/
+https://wiprodigital.com/2020/04/09/four-steps-to-thriving-with-remote-collaboration/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/digital-technologies
+https://wiprodigital.com/partners/adobe/
+https://wiprodigital.com/tag/customer-journey/
+https://wiprodigital.com/what-we-do/
+https://wiprodigital.com/2020/03/27/facilitate-remote-collaboration-with-microsoft-teams/
+https://wiprodigital.com/partners/cisco/
+https://wiprodigital.com/partners/yugabyte/
+https://wiprodigital.com/2020/04/02/leverage-rapid-integration-to-launch-channels-quickly/
+https://wiprodigital.com/2020/08/10/customer-intimacy-adding-value-into-the-financial-services-market/
+https://wiprodigital.com/services/wipro-digital-rig-and-devsecops/
+https://wiprodigital.com/cases/bringing-aid-to-indias-migrant-workers-amid-the-pandemic/
+https://wiprodigital.com/2020/03/26/an-ai-powered-bot-to-answer-your-covid-19-questions/
+https://wiprodigital.com/2020/03/26/tracking-employee-safety-for-business-continuity/
+https://wiprodigital.com/partners/dynatrace/
+https://wiprodigital.com/partners/vmware-tanzu/
+https://wiprodigital.com/cases/transforming-the-security-suite-of-a-global-networking-leader/
+https://wiprodigital.com/2020/04/01/scale-and-test-remotely-with-digital-assurance-as-a-service/
+https://wiprodigital.com/cases/digital-engagement-for-an-oil-and-gas-giant/
+https://wiprodigital.com/partners/sprinklr/
+https://wiprodigital.com/2020/03/30/ensuring-it-compliance-in-a-work-from-home-scenario/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/increasing-org-resilience
+https://wiprodigital.com/partners/maxicaster/
+https://wiprodigital.com/what-we-do/covid-19-response-resources/optimizing-reimagining-it
+https://wiprodigital.com/designit-approach/
+https://wiprodigital.com/partners/aws/
+https://wiprodigital.com/2020/03/31/optimize-working-capital-to-mitigate-a-challenging-economy/
+https://wiprodigital.com/who-we-are/#masthead
+https://wiprodigital.com/join-our-team
+https://wiprodigital.com/cases/enabling-remote-device-management-for-the-biotech-leader/
+https://wiprodigital.com/2020/08/19/world-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19/
+https://wiprodigital.com/2020/04/03/transforming-the-technology-operating-model/
+https://wiprodigital.com/cases/in24-insure/
+https://wiprodigital.com/partners/microsoft/
+https://wiprodigital.com/cases/enabling-transformation-in-healthcare-and-life-sciences/
+https://wiprodigital.com/2020/04/03/how-to-accelerate-the-enterprise-cloud-journey/
+https://wiprodigital.com/what-we-do/#wdwork_partners
+https://wiprodigital.com/tag/leadership/
+https://wiprodigital.com/2020/03/30/now-is-the-time-to-become-human-centric-digital-and-design-what-matters/
+https://wiprodigital.com/tag/diversity/
+Media/Static Links: 
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/bootstrap.min.js>
+img: <https://s17776.pcdn.co/wp-content/uploads/2017/09/Authors-Rajan-Kohli.jpg> x (Rajan Kohli)
+img: <https://px.ads.linkedin.com/collect/?pid=696835&fmt=gif> 1x1 ()
+img: <https://s17776.pcdn.co/wp-content/uploads/2016/08/Wipro-Digital-Cookies-05-28-18.png> 1241x2962 ()
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/mason.js>
+script: <https://s17776.pcdn.co/wp-content/plugins/ajax-load-more/core/dist/js/ajax-load-more.min.js?ver=5.3.7>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/service-min.js?v=3>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdcareers-new.js?ver=1528824044>
+iframe: <https://player.vimeo.com/video/279286339?title=0&byline=0&portrait=0>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/designit_logo.png> x (Get In Touch – Wipr)
+img: <https://s17776.pcdn.co/wp-content/uploads/2020/08/Bhavika-crop.jpg> x (Bhavika Gorasia)
+iframe: <https://www.googletagmanager.com/ns.html?id=GTM-THG25LC>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdhome.js>
+script: <https://www.googletagmanager.com/gtag/js?id=AW-701955939>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdwork.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/isotope.pkgd.min.js>
+iframe: <https://player.vimeo.com/video/279286694?title=0&byline=0&portrait=0>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/modernizr.min.js>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/designit_logo.png> x (Designit)
+iframe: <https://player.vimeo.com/video/454817861>
+script: <https://s17776.pcdn.co/wp-content/plugins/wp-scroll-depth/js/jquery-scrolldepth/jquery.scrolldepth.min.js?ver=5.5>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdblog.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdteam.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/dicontact.js>
+script: <https://app-ab39.marketo.com/js/forms2/js/forms2.min.js>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (Digital Transformat)
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/nice-select.min.js>
+iframe: <https://player.vimeo.com/video/130310711?title=0&byline=0&portrait=0>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wiprodigital.js>
+iframe: <https://player.vimeo.com/video/173961044?title=0&byline=0&portrait=0>
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (Get In Touch – Wipr)
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo-dk-2X.png> x (wipro digital)
+img: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/images/logo.png> x (wipro digital)
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/inview.js>
+script: <https://s17776.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp>
+script: <https://s17776.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.5>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wdpost.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/jquery.slicknav.min.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/jquery-1.12.0.min.js>
+script: <https://s17776.pcdn.co/wp-content/themes/wiprodigital/scripts/wow.min.js>
+OutSide Links:
+https://twitter.com/andycoghlan
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&hashtags=wiprodigital
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&title=Customer Experience in the No-Touch, Safety Obsessed Age&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&source=wiprodigital.com
+https://www.linkedin.com/in/andycoghlan
+https://www.nobelpeacecenter.org/en/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&hashtags=wiprodigital
+https://twitter.com/anubhav_mishra
+https://www.wipro.com/en-US/applications/microsoft/
+https://twitter.com/madhu7173
+https://www.nobelpeacecenter.org/arrangementer/oslo-pax-2020-diversity-matters
+https://www.wipro.com/en-CA/
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+https://twitter.com/wiprodigital
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&title=Diversity and Culture are Key to Business Agility&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&source=wiprodigital.com
+http://www.designit.com/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F09%2F16%2Fdiversity-and-culture-are-key-to-business-agility%2F&hashtags=wiprodigital
+https://www.linkedin.com/company/wipro-digital
+https://digitalproducts.wiprodigital.com/
+https://twitter.com/WiproDigital
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&title=World Economic Forum Report: Critical Frontier: Leveraging Technology to Combat COVID-19&summary=https%3A%2F%2Fwiprodigital.com%2F2020%2F08%2F19%2Fworld-economic-forum-report-critical-frontier-leveraging-technology-to-combat-covid-19%2F&source=wiprodigital.com
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2F2020%2F07%2F16%2Fcustomer-experience-in-the-no-touch-safety-obsessed-age%2F&hashtags=wiprodigital
+https://www.linkedin.com/in/kiran-minnasandram-8616a76
+https://www.linkedin.com/in/rajramadas/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&hashtags=wiprodigital
+https://hello.wiprodigital.com/everest-cloudnative-report-sept-2020/
+https://www.wipro.com/content/dam/nexus/en/newsroom/press-releases/2020/pdf/press-release-q1-21.pdf
+https://www.linkedin.com/in/surbhat/
+https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_analytics.html
+mailto:dpo-europe@wipro.com
+https://twitter.com/ritupg
+https://www.wipro.com/en-US/digital/partners/microsoft/
+https://twitter.com/kiran_minnas
+https://www.linkedin.com/in/anubhavmishra/
+https://www.linkedin.com/in/muniswamybharathi
+https://twitter.com/RajRamadas
+https://www.linkedin.com/in/jeremy-leach-6707963
+https://www.wipro.com/newsroom/press-releases/2020/wipro-collaborates-with-aws-to-extend-devops-capabilities/
+https://www.linkedin.com/in/rituparna-ghosh/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&hashtags=wiprodigital
+https://www.linkedin.com/in/alexbeal
+https://twitter.com/mrjfleach
+https://tools.google.com/dlpage/gaoptout
+https://www.linkedin.com/in/kahly-berg-51b6b119/
+https://www.aboutcookies.org/page/2/
+https://www.linkedin.com/in/reynoldsalex
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&title=Oslo Pax 2020: Diversity Matters&summary=https%3A%2F%2Fwiprodigital.com%2Fevents%2Foslo-pax-2020-diversity-matters%2F&source=wiprodigital.com
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&title=Everest Group Positions Wipro as a Leader in Cloud-Native Application Services&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Feverest-group-positions-wipro-as-a-leader-in-cloud-native-application-services%2F&source=wiprodigital.com
+mailto:global.consulting@wipro.com
+https://www.linkedin.com/in/ravi-seshadhri-4977436/
+https://www.wipro.com/innovation/ventures/
+https://www.linkedin.com/in/premchand-mohan-18389614/
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&hashtags=wiprodigital
+https://www.linkedin.com/in/ramachandran-padmanabhan-789173/
+https://twitter.com/sudkes
+https://legal.twitter.com/ads-terms/us.html#twitterconversiontrackingprogramt%26cs
+https://services.designit.com/project/business-as-unusual
+https://www.rationalcx.com/
+mailto:info@wipro.com
+https://twitter.com/SandhyaRArun
+https://twitter.com/Surbhat
+https://twitter.com/TheDavidKenner
+https://twitter.com/gluecode
+https://www.linkedin.com/in/manoj-madhusudhanan-b89a153
+https://support.microsoft.com/en-in/help/17442/windows-internet-explorer-delete-manage-cookies
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&title=CIO Strategy and Advisory Services&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&source=wiprodigital.com
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&title=Wipro Selected as Strategic Partner by Metro Bank to Drive IT Transformation&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&source=wiprodigital.com
+https://www.linkedin.com/in/sudhirkesavan/
+https://www.facebook.com/WiproDigital/
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&title=Wipro Digital Rig and DevSecOps&summary=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fwipro-digital-rig-and-devsecops%2F&source=wiprodigital.com
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-selected-as-strategic-partner-by-metro-bank-to-drive-it-transformation%2F&hashtags=wiprodigital
+https://twitter.com/ramu_pad
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&title=Wipro Limited Recognized as the Winner of Application Innovation 2020 Microsoft Partner of the Year&summary=https%3A%2F%2Fwiprodigital.com%2Fnews%2Fwipro-limited-recognized-as-the-winner-of-application-innovation-2020-microsoft-partner-of-the-year%2F&source=wiprodigital.com
+https://www.linkedin.com/in/rajan-kohli-69365a
+https://www.facebook.com/customaudiences/app/tos/?ref=u2u
+https://www.linkedin.com/in/mukundkalmanker
+https://business.twitter.com/en/help/ads-policies/other-policy-requirements/policies-for-conversion-tracking-and-tailored-audiences.html
+https://twitter.com/SRINIHG
+https://s17776.pcdn.co/wp-content/uploads/2016/08/Wipro-Digital-Cookies-05-28-18.png
+https://twitter.com/rajan_kohli1
+https://www.linkedin.com/in/srinivasaahg
+https://www.linkedin.com/in/rahul-shah-218a782
+http://twitter.com/share?text=Wipro Digital&url=https%3A%2F%2Fwiprodigital.com%2Fservices%2Fcio-strategy-and-advisory-services%2F&hashtags=wiprodigital
+https://www.linkedin.com/legal/sas-terms#additional-terms-for-optional-conversion-tracking
+https://www.linkedin.com/in/sandhyararun
+https://digistories.wiprodigital.com/?utm_source=Subscribe_Link&utm_medium=WD_Internal_clicks&utm_campaign=Digi%20Stories_%20Subscription_Internal_Clicks&utm_content=7010K000001eahI
+https://www.linkedin.com/in/davidkenner/
+https://www.linkedin.com/in/mnmurthy
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en
+https://twitter.com/rahulshahtweets
+https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+https://www.cloudbees.com/press/cloudbees-integrates-software-delivery-management-platform-google-cloud-build-and-tekton-break
+http://www3.weforum.org/docs/WEF_Critical_Frontier_Leveraging_Technology_Combat_COVID_19_2020.pdf
+https://designit.com
+https://legal.twitter.com/ads-terms/us.html#twitteradsprogramt%26cs
+https://www.linkedin.com/in/arun-melkote-88447a/?originalSubdomain=in
+https://www.linkedin.com/in/karkera/
+https://twitter.com/beal_a
+https://www.facebook.com/business/help/651294705016616?helpref=faq_content
+chiyuans-imac:jar chiyuanding$ 
